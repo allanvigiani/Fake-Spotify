@@ -15,7 +15,7 @@
 
       
    <!-- CSS -->
-   <link rel="stylesheet" href="style.css">
+   <link rel="stylesheet" href="Spotify/style.css">
 
    <!-- Font Awesome -->
    <script src="https://kit.fontawesome.com/d24de72b8a.js" crossorigin="anonymous"></script>
